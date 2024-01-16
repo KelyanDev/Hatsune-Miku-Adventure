@@ -11,8 +11,11 @@ Python game in which the famous character Hatsune Miku is travelling a city, avo
 Coded using PyGame
 
 >[!NOTE]
-> Commands: <br>
-> Q/D - Left / Right <br>
-> SPACE - Jump <br>
-> ENTER - Enter Level (Menu Only) <br>
-> ESCAPE - Return to menu (Game only) <br>
+> The full version of the game is the zip file located in the V1.0 folder
+
+<hr>
+<h3> Keybinds: </h3>
+Q/D - Left / Right <br>
+SPACE - Jump <br>
+ENTER - Enter Level (Menu Only) <br>
+ESCAPE - Return to menu (Game only) <br>
