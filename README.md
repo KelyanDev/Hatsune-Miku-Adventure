@@ -7,11 +7,12 @@
   <a href="https://www.w3schools.com/python/default.asp"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 </div> <hr>
 
-Python game in which the famous character Hatsune Miku is travelling a city, avoiding the void between the building's roof and the different policeman
-Coded using PyGame
+Python game in which the famous character Hatsune Miku is travelling a city, avoiding the void between the building's roof and the different policeman  
+Coded using PyGame  
+Levels created using Tiled
 
 >[!NOTE]
-> The full version of the game is the zip file located in the V1.0 folder
+> To Download the full version of the game, just download the zip file in the V1.0 folder, and unzip it
 
 <hr>
 <h3> Keybinds: </h3>
